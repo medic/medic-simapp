@@ -1,0 +1,9 @@
+
+Muvuku is a framework for rapid design, compilation, and deployment of SIM
+Application Toolkit (STK) -based data collection tools. Currently, this
+framework targets the ATmel ATmega 128 (AVR) microcontroller, running on
+Bladox's parallel SIM devices (e.g. the Turbo SIM, Turbo Mini, and others).
+
+This repository is a work in progress. For more information, please contact
+Medic Mobile.
+
